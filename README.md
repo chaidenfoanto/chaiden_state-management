@@ -1,7 +1,6 @@
 # Session 4 : Lab Activity 2 - State Management
 ---
-##
-Nama: Chaiden Richardo Foanto  
+###Nama: Chaiden Richardo Foanto  
 NIM: 0806022310023  
 Mata Kuliah: Visual Programming - Flutter  
 
